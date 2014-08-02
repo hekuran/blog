@@ -1,2 +1,2 @@
-blog
+Array of function pointers in C
 ====
